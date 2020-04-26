@@ -1,4 +1,4 @@
-# flutterings
+# fluttering
 
 A new Flutter project.
 
